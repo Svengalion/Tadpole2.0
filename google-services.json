@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "638187062411",
+    "project_id": "tadpole-304ab",
+    "storage_bucket": "tadpole-304ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638187062411:android:b37a9fada15eeedbf5c08e",
+        "android_client_info": {
+          "package_name": "com.AtomGame.Tadpole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638187062411-96msc1n9e7m5v7bgbikv7udnb2bn9ava.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfSB3DD9GuaMuy12_zZpdF9Lk_XOG4fP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638187062411-96msc1n9e7m5v7bgbikv7udnb2bn9ava.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638187062411-afaoe7e1tojc03p1c28khq9o7j7heae4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AtomGame.Tadpole"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
